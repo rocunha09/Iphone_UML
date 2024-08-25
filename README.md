@@ -3,6 +3,6 @@ Modelando principais funcionalidades de um Iphone com UML e Java baseado no Vìd
 
 - Realizado criação básica de uml, apenas para ilustrar, e implementação de classes e interfaces.
 
-- Construído de forma simples apenas para demonstrar a possibilidade de obter classes que representam rescursos direfentes através da implementação de suas interfaces.
+- Construído de forma simples apenas para demonstrar a possibilidade de obter classes que representam recursos diferentes através da implementação de suas interfaces.
 
 ![UML simples](uml_diagrama.png)
